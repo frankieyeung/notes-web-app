@@ -1,0 +1,20 @@
+{
+  "name": "notes-web-app",
+  "version": "1.0.0",
+  "description": "I'm learning Javascript so I'm trying to make a notes web app by using MERN stack(MongoDB, Expressjs, Reactjs, Nodejs)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankieyeung/notes-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankieyeung/notes-web-app/issues"
+  },
+  "homepage": "https://github.com/frankieyeung/notes-web-app#readme"
+}
